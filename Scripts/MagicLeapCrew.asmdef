@@ -1,0 +1,24 @@
+{
+    "name": "MagicLeapCrew",
+    "rootNamespace": "",
+    "references": [
+        "Unity.XR.ARFoundation",
+        "MagicLeap.SDK",
+        "Unity.XR.OpenXR",
+        "Unity.InputSystem",
+        "Unity.XR.Interaction.Toolkit",
+        "Unity.XR.Management",
+        "Unity.XR.ARSubsystems",
+        "Unity.XR.CoreUtils",
+        "Parabox.Stl"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
